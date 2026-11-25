@@ -1,0 +1,15 @@
+{
+  "name": "CrawlRaven",
+  "url": "https://crawlraven.com/pricing",
+  "description": "SEO tool: joins Search Console, GA4 and your Ahrefs or Semrush lists to a site crawl, then says what to write, update and fix first",
+  "category": "marketing",
+  "platforms": ["web"],
+  "deal": "50% off lifetime with code CRBFCM50",
+  "code": "CRBFCM50",
+  "pricing": "lifetime",
+  "price": { "regular": 190, "sale": 95, "currency": "USD" },
+  "discount": 50,
+  "startDate": "2026-11-11",
+  "endDate": "2026-11-30",
+  "icon": "https://crawlraven.com/apple-touch-icon.png"
+}
