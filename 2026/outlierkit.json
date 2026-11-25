@@ -1,0 +1,14 @@
+{
+  "name": "OutlierKit",
+  "url": "https://outlierkit.com/resources/black-friday/",
+  "description": "YouTube research for experts, coaches and agencies: breakout videos in your niche, the keywords behind them and competitor channels",
+  "category": "marketing",
+  "platforms": ["web"],
+  "deal": "40% off any plan, including lifetime, with code BFCM40",
+  "code": "BFCM40",
+  "pricing": "subscription",
+  "price": { "regular": 49, "sale": 29.4, "currency": "USD" },
+  "discount": 40,
+  "startDate": "2026-11-16",
+  "endDate": "2026-12-05"
+}
